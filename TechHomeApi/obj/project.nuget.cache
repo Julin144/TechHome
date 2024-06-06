@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RXc+dd9GjGHDwLmIpaW2vozffhxEGbG7/jVHkAxFIuLRrWbFzr05IQQBdstpSv6OYI7WA6IQjPumbAOXPJ9WNA==",
+  "dgSpecHash": "JdtFln6mwSjNEBX4rgiTvURS65yFDXCeb8jyYL2UULInxI+iUh+EC6MJugeq6+KEC0dhLdIK4Y+Dq/lPrWoZsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuário\\Documents\\Projects\\TechHomeApi\\TechHomeApi.csproj",
+  "projectFilePath": "C:\\Users\\Usuário\\Documents\\Projects\\TechHome\\TechHomeApi\\TechHomeApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
