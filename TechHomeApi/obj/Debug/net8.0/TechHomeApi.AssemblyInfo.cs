@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechHomeApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3b395922ac694b725950e74706d829ef0f1a6e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bbe4bf16f5ab37c4dd3204b37c18f3bdcc46b27")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechHomeApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechHomeApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

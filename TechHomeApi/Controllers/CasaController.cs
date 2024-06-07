@@ -27,7 +27,6 @@ namespace TechHomeApi.Controllers
             CasaRepository db = new CasaRepository();
             db.CreateCasa(Casa);
         }
-
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] CasaRequest name)
         {
